@@ -1,2 +1,2 @@
-# Automação Residencial BLA BLA BLA BLA
+# Automação Residencial
 Projeto para automação residencial de baixo custo.
